@@ -1,21 +1,32 @@
 ### Date created
-Include the date you created this project and README file.
-
+29/12/2019
 ### Project Title
-Replace the Project Title
+Progect 3 github control
 
 ### Description
-Describe what your project is about and what it does
+nanodegree
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+solving push commit in remote repo problem from (https://stackoverflow.com/questions/39422521/how-can-i-change-the-user-on-git-bash)
+Python documentation
+Pandas documentation
+Lectures for Programming for Data Science
 
+### Data files uesd
+chicago.csv new_york_city.csv washington.csv
+
+<<<<<<< HEAD
 
 ## Data files used
 chicago.csv new_york_city.csv washington.csv
 
 ## Special thanks for a great support
 Mr.Amin EL Biek
+||||||| d4958ae
+=======
+### Special thanks for a great support
+Mr.Amin Al Baik
+>>>>>>> documentation
