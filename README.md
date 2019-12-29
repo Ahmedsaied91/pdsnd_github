@@ -17,3 +17,6 @@ Lectures for Programming for Data Science
 
 ### Data files uesd
 chicago.csv new_york_city.csv washington.csv
+
+### Special thanks for a great support
+Mr.Amin Al Baik
