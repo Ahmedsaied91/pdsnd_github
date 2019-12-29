@@ -10,4 +10,7 @@ nanodegree
 bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+solving push commit in remote repo problem from (https://stackoverflow.com/questions/39422521/how-can-i-change-the-user-on-git-bash)
+Python documentation
+Pandas documentation
+Lectures for Programming for Data Science
