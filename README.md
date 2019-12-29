@@ -14,3 +14,6 @@ solving push commit in remote repo problem from (https://stackoverflow.com/quest
 Python documentation
 Pandas documentation
 Lectures for Programming for Data Science
+
+### Data files uesd
+chicago.csv new_york_city.csv washington.csv
