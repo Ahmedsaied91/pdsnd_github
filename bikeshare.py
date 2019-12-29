@@ -33,7 +33,7 @@ def get_filters():
     while True:
       month = input("\nWhich month would you like to filter by? january, february, march, april, may, june or type 'all' if you do not have any preference?\n")
       if month not in ('january', 'february', 'march', 'april', 'may', 'june', 'all','ALL'):
-        print("Sorry, I didn't catch that. Try again.")
+        print("Sorry, I didn't catch that. Try again,sorry Brother.")
         continue
       else:
         break
